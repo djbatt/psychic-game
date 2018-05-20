@@ -1,0 +1,17 @@
+
+body {
+    font-family: 'Titan One', cursive;
+    background-color: #858585;
+    color: #4e4e4e;
+}
+
+img {
+    text-align: center;
+    background-color: #f0f0e1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container {
+    background-color: #f0f0e1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
